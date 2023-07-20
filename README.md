@@ -1,2 +1,6 @@
 # puzzles
-Solution to puzzles
+Solutions to puzzles
+
+Uses C++17
+
+
