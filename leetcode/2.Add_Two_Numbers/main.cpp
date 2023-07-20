@@ -92,7 +92,6 @@ int main(void) {
                   << std::endl;
         std::cout << la << " + " << lb << std::endl;
         std::cout << utils::CheckAnswer<NumberAsList>(lans, le) << std::endl;
-        ;
     }
 
     return 0;
